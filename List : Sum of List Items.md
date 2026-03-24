@@ -15,5 +15,6 @@ print(sum(items))
 ~~~
 ## Output
 <img width="271" height="159" alt="image" src="https://github.com/user-attachments/assets/e92267cd-f6f5-40de-97ef-f4ef254cb593" />
+
 ## Result
 Thus the program executed successfully.
